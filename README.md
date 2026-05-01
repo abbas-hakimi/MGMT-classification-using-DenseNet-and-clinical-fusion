@@ -30,7 +30,7 @@ A custom 3D DenseNet architecture is used to extract volumetric features from MR
 ---
 
 ## 📁 Project Structure
-── BTP_final_notebook.ipynb # Main training and evaluation notebook
-├── build_csv_upenn.py # Dataset CSV creation
-├── preprocess_upenn.py # Preprocessing pipeline
-├── preprocessing_verification_upenn.py # Preprocessing validation
+── BTP_final_notebook.ipynb # Main training and evaluation notebook <br>
+├── build_csv_upenn.py # Dataset CSV creation <br>
+├── preprocess_upenn.py # Preprocessing pipeline<br>
+├── preprocessing_verification_upenn.py # Preprocessing validation<br>
